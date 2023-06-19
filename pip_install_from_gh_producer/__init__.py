@@ -1,0 +1,1 @@
+from pip_install_from_gh_producer.functions import test_function

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from code import test_function
+from pip_install_from_gh_producer import test_function
 
 def main():
     test_function()
